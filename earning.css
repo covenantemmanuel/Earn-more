@@ -1,0 +1,25 @@
+body {
+  font-family: "Agu Display", serif;
+ 
+}
+
+body {
+  background-color: darkred;
+  color: white;
+}
+
+
+button {
+  border-radius:20px;
+  background-color: blue;
+  color:white;
+  height:50px;
+  width: 240px;
+  border-style: dotted;
+  border-inline: padding;
+}
+.user,.1m{
+  padding: 20px;
+  align: center;
+}
+  
